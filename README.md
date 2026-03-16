@@ -1,7 +1,7 @@
 <h1 align="center">Priyanka Boddoju</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer+%7C+ML+Engineer+%7C+GenAI+Builder&center=true&width=420&height=35&color=6366F1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer+%7C+ML+Engineer+%7C+GenAI+Builder&center=true&width=520&height=45&fontSize=20&color=6366F1">
 </p>
 
 <p align="center">
