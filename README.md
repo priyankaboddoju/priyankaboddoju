@@ -1,7 +1,7 @@
 <h1 align="center">Priyanka Boddoju</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer+%7C+ML+Engineer+%7C+GenAI+Builder&center=true&width=520&height=45&fontSize=20&color=6366F1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer+%7C+ML+Engineer+%7C+GenAI+Builder;Building+production-scale+cloud+and+AI+systems&center=true&width=600&height=50&fontSize=22&color=6366F1">
 </p>
 
 <p align="center">
@@ -18,24 +18,24 @@
 
 ---
 
-**Data & ML Engineer** building scalable systems on **AWS + GCP**  
-Processed **10M+ records** • Improved performance by **40%** • Exploring **GenAI**
+**Data & ML Engineer building production-scale cloud and AI systems on AWS + GCP**  
+Processed **10M+ records** • Improved performance by **40%** • Currently building **AI Agents & GenAI systems**
 
 ---
 
 ## 🧠 Stack
-`Python` • `SQL` • `PySpark` • `AWS` • `GCP` • `Spark` • `Glue` • `PyTorch` • `HuggingFace`
+**Python • SQL • AWS** • PySpark • GCP • Spark • Glue • PyTorch • HuggingFace
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Work
 
-<details>
-<summary><b>🤖 AI Agent Research Assistant</b></summary>
+<details open>
+<summary><b>🤖 AI Agent Research Assistant (GenAI)</b></summary>
 
 - Built a tool-using AI agent using Ollama + web search  
-- Designed modular architecture for reasoning and automation  
-- Foundation for multi-agent and RAG systems  
+- Designed modular reasoning architecture for tool usage & response generation  
+- Foundation for multi-agent and RAG-based systems  
 
 🔗 https://github.com/priyankaboddoju/ai-agent-research-assistant  
 
@@ -45,8 +45,8 @@ Processed **10M+ records** • Improved performance by **40%** • Exploring **G
 <summary><b>📊 EduPredict Tool (Forecasting)</b></summary>
 
 - Built SARIMAX model for enrollment prediction  
-- Improved accuracy by **20%**  
-- Developed Power BI dashboards  
+- Improved forecasting accuracy by **20%**  
+- Developed Power BI dashboards for decision-making  
 
 🔗 https://github.com/priyankaboddoju/EDU-PREDICT-TOOL  
 
@@ -55,9 +55,9 @@ Processed **10M+ records** • Improved performance by **40%** • Exploring **G
 <details>
 <summary><b>🧠 Text Summarization (BART)</b></summary>
 
-- Fine-tuned transformer model using HuggingFace  
-- Improved ROUGE metrics  
-- Optimized preprocessing pipeline  
+- Fine-tuned transformer model using HuggingFace + PyTorch  
+- Improved ROUGE metrics and model performance  
+- Optimized preprocessing pipelines for efficiency  
 
 🔗 https://github.com/priyankaboddoju/Text-Summarization  
 
@@ -67,7 +67,7 @@ Processed **10M+ records** • Improved performance by **40%** • Exploring **G
 <summary><b>📦 Object Detection (SSD)</b></summary>
 
 - Built deep learning pipeline for object detection  
-- Improved training efficiency and performance  
+- Improved training efficiency and model performance  
 
 🔗 https://github.com/priyankaboddoju/Object-Detection-SSD  
 
@@ -79,4 +79,10 @@ Processed **10M+ records** • Improved performance by **40%** • Exploring **G
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyankaboddoju&show_icons=true&hide_border=true&title_color=6366F1&icon_color=6366F1" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>Open to opportunities in Data Engineering, ML & GenAI</sub>
 </p>
