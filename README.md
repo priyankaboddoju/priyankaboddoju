@@ -1,31 +1,32 @@
 <h1 align="center">Hi 👋, I'm Priyanka Boddoju</h1>
-<h3 align="center">Data Engineer | AI/ML Engineer | Cloud & GenAI Enthusiast</h3>
+<h3 align="center">Data Engineer | Machine Learning Engineer | Cloud & AI Systems</h3>
 
 ---
 
 ## 🚀 About Me
 - 🎓 MS in Data Science @ University of New Haven  
-- 💼 Data Engineer @ Visa (Current)  
-- ☁️ Building scalable data pipelines on AWS & Azure  
-- 🤖 Passionate about AI Agents, RAG, and GenAI systems  
-- ⚡ I turn raw data → intelligent systems  
+- 💼 AWS & Data Engineer | Ex-Hexaware | ML Engineer @ Vosyn  
+- ☁️ Building scalable ETL pipelines on AWS & GCP  
+- 🤖 Experience in NLP, model deployment & AI-powered systems  
+- ⚡ Processed 10M+ records & improved query performance by 40%  
+- 🔐 Built secure cloud architectures using KMS, Secrets Manager & IAM  
 
 ---
 
 ## 🧠 Tech Stack
 
 ### 👩‍💻 Languages
-Python | SQL | Java | Scala
+Python | SQL | PySpark | Java
 
 ### ⚙️ Data Engineering
-Apache Spark | Kafka | Airflow | Databricks | dbt
+AWS Glue | Apache Spark | ETL Pipelines | Data Modeling | API Integration
 
 ### ☁️ Cloud
-AWS (S3, Glue, Lambda, Redshift)  
-Azure (ADF, Synapse, Databricks)
+AWS (S3, Glue, Lambda, Redshift, DynamoDB, API Gateway, Cognito)  
+GCP (Cloud Run, Cloud Functions, Vertex AI)
 
 ### 🤖 AI / ML
-PyTorch | HuggingFace | LangChain | RAG | LLMs
+PyTorch | HuggingFace | NLP (BART) | Model Deployment | Experimentation
 
 ### 🗄️ Databases
 Snowflake | PostgreSQL | MySQL | DynamoDB
@@ -34,26 +35,35 @@ Snowflake | PostgreSQL | MySQL | DynamoDB
 
 ## 🔥 Featured Projects
 
-### 🤖 AI Agent Research Assistant
-- Built a tool-using AI agent with Ollama + web search
-- Implemented modular architecture for reasoning workflows
-- Supports real-time research queries
+### 🤖 AI Agent Research Assistant (GenAI Project)
+- Built an AI agent using **Ollama + Python** with tool-based architecture
+- Integrated web search to generate real-time research responses
+- Designed modular agent workflow for reasoning, tool usage & response generation
+- Demonstrates foundation for multi-agent and RAG-based systems
 
-🔗 Repo: https://github.com/your-repo
-
----
-
-### 📊 ETL Data Pipeline (AWS)
-- Designed scalable ETL pipelines using AWS Glue + S3
-- Processed millions of records daily
-- Improved data processing speed by 40%
+🔗 Repo: https://github.com/priyankaboddoju/ai-agent-research-assistant
 
 ---
 
-### 🧠 RAG-Based QA System
-- Built retrieval-based chatbot using LangChain + vector DB
-- Integrated embeddings + semantic search
-- Reduced hallucination by 60%
+### 📊 AWS Data Pipeline & Migration
+- Migrated Firebase-based platform to AWS using S3, DynamoDB, RDS, Lambda & API Gateway
+- Built ETL workflows for user data, contracts, and media processing
+- Implemented **KMS encryption & Secrets Manager** for secure data handling
+- Optimized infrastructure cost to ~$75–150/month using lifecycle policies
+
+---
+
+### 🧠 NLP Text Summarization (BART)
+- Fine-tuned BART model using HuggingFace + PyTorch Lightning
+- Improved ROUGE-1 and ROUGE-L F1 scores by +0.039
+- Optimized preprocessing pipelines for efficient training
+
+---
+
+### 📈 Enrollment Forecasting (SARIMAX)
+- Built predictive models to forecast student enrollment trends
+- Improved forecasting accuracy by 20%
+- Developed Power BI dashboards for data-driven planning
 
 ---
 
@@ -68,6 +78,7 @@ Snowflake | PostgreSQL | MySQL | DynamoDB
 ## 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/priyankaboddoju/
 - Email: priyankaboddoju@gmail.com
+
 ---
 
 ⭐ *“Building scalable data systems and intelligent AI solutions.”*
