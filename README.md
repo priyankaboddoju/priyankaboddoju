@@ -1,7 +1,7 @@
 <h1 align="center">Priyanka Boddoju</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer+%7C+ML+Engineer+%7C+GenAI+Builder;Building+production-scale+cloud+and+AI+systems&center=true&width=600&height=50&fontSize=22&color=6366F1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2F+ML+Engineer+%7C+Data+Engineer+%7C+GenAI+Builder;Building+intelligent+systems+and+scalable+backends&center=true&width=600&height=50&fontSize=22&color=6366F1">
 </p>
 
 <p align="center">
@@ -18,13 +18,26 @@
 
 ---
 
-**Data & ML Engineer building production-scale cloud and AI systems on AWS + GCP**  
-Processed **10M+ records** • Improved performance by **40%** • Currently building **AI Agents & GenAI systems**
+**AI/ML Engineer building intelligent systems, data pipelines, and scalable backend architectures**  
+Worked on **NLP models, ETL pipelines, and cloud-native systems (AWS + GCP)**  
+Processed **10M+ records** • Improved performance by **40%** • Building **GenAI & AI Agents**
 
 ---
 
-## 🧠 Stack
-**Python • SQL • AWS** • PySpark • GCP • Spark • Glue • PyTorch • HuggingFace
+## 🧠 Core Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-6366F1?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4F46E5?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-4338CA?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-6366F1?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-312E81?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-6366F1?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-4F46E5?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark-6366F1?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+</p>
 
 ---
 
@@ -34,8 +47,8 @@ Processed **10M+ records** • Improved performance by **40%** • Currently bui
 <summary><b>🤖 AI Agent Research Assistant (GenAI)</b></summary>
 
 - Built a tool-using AI agent using Ollama + web search  
-- Designed modular reasoning architecture for tool usage & response generation  
-- Foundation for multi-agent and RAG-based systems  
+- Designed modular architecture for reasoning, tool usage, and response generation  
+- Demonstrates foundation for multi-agent and RAG-based systems  
 
 🔗 https://github.com/priyankaboddoju/ai-agent-research-assistant  
 
@@ -46,7 +59,7 @@ Processed **10M+ records** • Improved performance by **40%** • Currently bui
 
 - Built SARIMAX model for enrollment prediction  
 - Improved forecasting accuracy by **20%**  
-- Developed Power BI dashboards for decision-making  
+- Developed Power BI dashboards  
 
 🔗 https://github.com/priyankaboddoju/EDU-PREDICT-TOOL  
 
@@ -57,7 +70,6 @@ Processed **10M+ records** • Improved performance by **40%** • Currently bui
 
 - Fine-tuned transformer model using HuggingFace + PyTorch  
 - Improved ROUGE metrics and model performance  
-- Optimized preprocessing pipelines for efficiency  
 
 🔗 https://github.com/priyankaboddoju/Text-Summarization  
 
@@ -67,7 +79,7 @@ Processed **10M+ records** • Improved performance by **40%** • Currently bui
 <summary><b>📦 Object Detection (SSD)</b></summary>
 
 - Built deep learning pipeline for object detection  
-- Improved training efficiency and model performance  
+- Optimized preprocessing and training workflow  
 
 🔗 https://github.com/priyankaboddoju/Object-Detection-SSD  
 
@@ -84,5 +96,5 @@ Processed **10M+ records** • Improved performance by **40%** • Currently bui
 ---
 
 <p align="center">
-  <sub>Open to opportunities in Data Engineering, ML & GenAI</sub>
+  <sub>Open to opportunities in AI/ML Engineering, Data Engineering & Backend Systems</sub>
 </p>
