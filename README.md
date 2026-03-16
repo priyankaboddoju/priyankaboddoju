@@ -23,20 +23,60 @@ Processed **10M+ records** • Improved performance by **40%** • Exploring **G
 
 ---
 
-### 🧠 Stack
+## 🧠 Stack
 `Python` • `SQL` • `PySpark` • `AWS` • `GCP` • `Spark` • `Glue` • `PyTorch` • `HuggingFace`
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-📌 [AI Agent](https://github.com/priyankaboddoju/ai-agent-research-assistant) — GenAI agent (Ollama + tools)  
-📌 [Forecasting](https://github.com/priyankaboddoju/EDU-PREDICT-TOOL) — SARIMAX (+20% accuracy)  
-📌 [Summarization](https://github.com/priyankaboddoju/Text-Summarization) — BART (ROUGE ↑)  
-📌 [Detection](https://github.com/priyankaboddoju/Object-Detection-SSD) — SSD pipeline  
+<details>
+<summary><b>🤖 AI Agent Research Assistant</b></summary>
+
+- Built a tool-using AI agent using Ollama + web search  
+- Designed modular architecture for reasoning and automation  
+- Foundation for multi-agent and RAG systems  
+
+🔗 https://github.com/priyankaboddoju/ai-agent-research-assistant  
+
+</details>
+
+<details>
+<summary><b>📊 EduPredict Tool (Forecasting)</b></summary>
+
+- Built SARIMAX model for enrollment prediction  
+- Improved accuracy by **20%**  
+- Developed Power BI dashboards  
+
+🔗 https://github.com/priyankaboddoju/EDU-PREDICT-TOOL  
+
+</details>
+
+<details>
+<summary><b>🧠 Text Summarization (BART)</b></summary>
+
+- Fine-tuned transformer model using HuggingFace  
+- Improved ROUGE metrics  
+- Optimized preprocessing pipeline  
+
+🔗 https://github.com/priyankaboddoju/Text-Summarization  
+
+</details>
+
+<details>
+<summary><b>📦 Object Detection (SSD)</b></summary>
+
+- Built deep learning pipeline for object detection  
+- Improved training efficiency and performance  
+
+🔗 https://github.com/priyankaboddoju/Object-Detection-SSD  
+
+</details>
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankaboddoju&show_icons=true&hide_border=true&title_color=6366F1&icon_color=6366F1" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyankaboddoju&show_icons=true&hide_border=true&title_color=6366F1&icon_color=6366F1" height="160"/>
 </p>
