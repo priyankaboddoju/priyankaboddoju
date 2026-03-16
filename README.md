@@ -1,7 +1,7 @@
 <h1 align="center">Priyanka Boddoju</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2F+ML+Engineer+%7C+Data+Engineer+%7C+GenAI+Builder;Building+intelligent+systems+and+scalable+backends&center=true&width=600&height=50&fontSize=22&color=6366F1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2F+ML+Engineer+%7C+Data+Engineer+%7C+GenAI+Builder;Building+intelligent+systems+and+production+APIs&center=true&width=600&height=50&fontSize=22&color=6366F1">
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 
 ---
 
-**AI/ML Engineer building intelligent systems, data pipelines, and scalable backend architectures**  
-Worked on **NLP models, ETL pipelines, and cloud-native systems (AWS + GCP)**  
+**AI/ML Engineer building intelligent systems, scalable backends, and production APIs**  
+Worked on **NLP models, ETL pipelines, REST APIs, and cloud-native systems (AWS + GCP)**  
 Processed **10M+ records** • Improved performance by **40%** • Building **GenAI & AI Agents**
 
 ---
@@ -30,12 +30,17 @@ Processed **10M+ records** • Improved performance by **40%** • Building **Ge
 
 <img src="https://img.shields.io/badge/Python-6366F1?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4F46E5?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-4338CA?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-4338CA?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-6366F1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-312E81?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-6366F1?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-312E81?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-4338CA?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-6366F1?style=for-the-badge&logo=huggingface&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-4F46E5?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spark-6366F1?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spark-4F46E5?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Glue-6366F1?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
 
@@ -44,11 +49,12 @@ Processed **10M+ records** • Improved performance by **40%** • Building **Ge
 ## 🚀 Featured Work
 
 <details open>
-<summary><b>🤖 AI Agent Research Assistant (GenAI)</b></summary>
+<summary><b>🤖 AI Agent Research Assistant (GenAI + APIs)</b></summary>
 
 - Built a tool-using AI agent using Ollama + web search  
-- Designed modular architecture for reasoning, tool usage, and response generation  
-- Demonstrates foundation for multi-agent and RAG-based systems  
+- Designed modular backend architecture for reasoning and tool orchestration  
+- Integrated API-based workflows for real-time data retrieval  
+- Foundation for multi-agent and RAG-based systems  
 
 🔗 https://github.com/priyankaboddoju/ai-agent-research-assistant  
 
