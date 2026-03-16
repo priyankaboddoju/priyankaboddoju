@@ -66,9 +66,8 @@ Snowflake | PostgreSQL | MySQL | DynamoDB
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/kumarsaladi/
-- Email: kumarsaladi77@gmail.com
-
+- LinkedIn: https://www.linkedin.com/in/priyankaboddoju/
+- Email: priyankaboddoju@gmail.com
 ---
 
 ⭐ *“Building scalable data systems and intelligent AI solutions.”*
