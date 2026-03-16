@@ -1,84 +1,74 @@
-<h1 align="center">Hi 👋, I'm Priyanka Boddoju</h1>
-<h3 align="center">Data Engineer | Machine Learning Engineer | Cloud & AI Systems</h3>
+<h1 align="center">Hi 👋, I'm Priyanka</h1>
+<h3 align="center">Data Engineer • ML Engineer • GenAI Builder</h3>
 
----
-
-## 🚀 About Me
-- 🎓 MS in Data Science @ University of New Haven  
-- 💼 AWS & Data Engineer | Ex-Hexaware | ML Engineer @ Vosyn  
-- ☁️ Building scalable ETL pipelines on AWS & GCP  
-- 🤖 Experience in NLP, model deployment & AI-powered systems  
-- ⚡ Processed 10M+ records & improved query performance by 40%  
-- 🔐 Built secure cloud architectures using KMS, Secrets Manager & IAM  
-
----
-
-## 🧠 Tech Stack
-
-### 👩‍💻 Languages
-Python | SQL | PySpark | Java
-
-### ⚙️ Data Engineering
-AWS Glue | Apache Spark | ETL Pipelines | Data Modeling | API Integration
-
-### ☁️ Cloud
-AWS (S3, Glue, Lambda, Redshift, DynamoDB, API Gateway, Cognito)  
-GCP (Cloud Run, Cloud Functions, Vertex AI)
-
-### 🤖 AI / ML
-PyTorch | HuggingFace | NLP (BART) | Model Deployment | Experimentation
-
-### 🗄️ Databases
-Snowflake | PostgreSQL | MySQL | DynamoDB
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 AI Agent Research Assistant (GenAI Project)
-- Built an AI agent using **Ollama + Python** with tool-based architecture
-- Integrated web search to generate real-time research responses
-- Designed modular agent workflow for reasoning, tool usage & response generation
-- Demonstrates foundation for multi-agent and RAG-based systems
-
-🔗 Repo: https://github.com/priyankaboddoju/ai-agent-research-assistant
-
----
-
-### 📊 AWS Data Pipeline & Migration
-- Migrated Firebase-based platform to AWS using S3, DynamoDB, RDS, Lambda & API Gateway
-- Built ETL workflows for user data, contracts, and media processing
-- Implemented **KMS encryption & Secrets Manager** for secure data handling
-- Optimized infrastructure cost to ~$75–150/month using lifecycle policies
-
----
-
-### 🧠 NLP Text Summarization (BART)
-- Fine-tuned BART model using HuggingFace + PyTorch Lightning
-- Improved ROUGE-1 and ROUGE-L F1 scores by +0.039
-- Optimized preprocessing pipelines for efficient training
-
----
-
-### 📈 Enrollment Forecasting (SARIMAX)
-- Built predictive models to forecast student enrollment trends
-- Improved forecasting accuracy by 20%
-- Developed Power BI dashboards for data-driven planning
-
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankaboddoju&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaboddoju" />
+  <a href="https://www.linkedin.com/in/priyankaboddoju/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:priyankaboddoju@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/priyankaboddoju/
-- Email: priyankaboddoju@gmail.com
+## ⚡ About
+- 🎓 MS Data Science @ University of New Haven  
+- 💼 AWS Data Engineer | Ex-Hexaware | ML @ Vosyn  
+- ☁️ AWS + GCP | ETL • ML • Cloud Systems  
+- ⚡ 10M+ records processed | 40% faster queries  
 
 ---
 
-⭐ *“Building scalable data systems and intelligent AI solutions.”*
+## 🧠 Tech Stack
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud"/>
+
+<img src="https://img.shields.io/badge/Spark-FDEE21?logo=apachespark"/>
+<img src="https://img.shields.io/badge/Glue-FF9900?logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface"/>
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazonaws"/>
+
+</p>
+
+---
+
+## 🚀 Featured Work
+
+### 🤖 AI Agent (GenAI)
+🔗 https://github.com/priyankaboddoju/ai-agent-research-assistant  
+→ Tool-using AI agent with Ollama + web search  
+→ Modular architecture for reasoning & automation  
+
+---
+
+### ☁️ AWS Data Pipeline
+→ Built ETL pipelines (Glue + Lambda + Redshift)  
+→ 10M+ records | +40% query performance  
+
+---
+
+### 🧠 NLP Summarization
+→ Fine-tuned BART (HuggingFace + PyTorch)  
+→ Improved ROUGE scores  
+
+---
+
+## 📊 GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyankaboddoju&show_icons=true&theme=default"/>
+</p>
+
+---
+
+⭐ *Building scalable data systems + AI solutions*
